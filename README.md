@@ -47,3 +47,7 @@ git clone https://github.com/SamyuktaMenon/FlappyBird-Java.git
 # Open in VS Code / IntelliJ
 
 # Run the main file
+
+## 📸 Preview
+
+![Game Preview](preview.png)
