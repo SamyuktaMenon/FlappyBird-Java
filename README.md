@@ -1,3 +1,4 @@
+![Game Preview](./preview.png)
 # 🐦 Flappy Bird Clone (Java)
 
 <p align="center">
@@ -48,7 +49,3 @@ git clone https://github.com/SamyuktaMenon/FlappyBird-Java.git
 
 # Run the main file
 
-## 📸 Preview
-## 📸 Preview
-
-![Game Preview](./preview.png)
