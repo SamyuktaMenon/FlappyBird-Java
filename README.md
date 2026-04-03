@@ -49,5 +49,6 @@ git clone https://github.com/SamyuktaMenon/FlappyBird-Java.git
 # Run the main file
 
 ## 📸 Preview
+## 📸 Preview
 
-![Game Preview](preview.png)
+![Game Preview](./preview.png)
