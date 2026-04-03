@@ -1,18 +1,49 @@
-## Getting Started
+# 🐦 Flappy Bird Clone (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner--Intermediate-orange?style=for-the-badge" />
+</p>
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📌 Overview
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+A fully functional **Flappy Bird Clone** built using **Java Swing**, replicating the classic arcade gameplay with smooth physics and interactive UI.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+This project demonstrates core concepts of:
+- Event-driven programming
+- Game loop logic
+- Collision detection
+- Basic physics simulation
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🎮 Features
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+✨ Smooth bird movement with gravity  
+✨ Infinite scrolling pipes  
+✨ Real-time score tracking  
+✨ Collision detection system  
+✨ Restart game functionality  
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Java  
+- **Framework:** Swing (GUI)  
+- **Concepts:** OOP, Event Handling, Game Logic  
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/SamyuktaMenon/FlappyBird-Java.git
+
+# Open in VS Code / IntelliJ
+
+# Run the main file
